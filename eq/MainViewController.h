@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  eq
 //
 //  Created by Morten Kleveland on 15.02.2016.
@@ -8,8 +8,6 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface ViewController : NSViewController
-
+@interface MainViewController : NSViewController
 
 @end
-

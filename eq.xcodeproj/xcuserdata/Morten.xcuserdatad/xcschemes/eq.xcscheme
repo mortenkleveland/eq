@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5A157DD81C727D8B00BDB64E"
+               BlueprintIdentifier = "5A157E141C727EFB00BDB64E"
                BuildableName = "eq.app"
                BlueprintName = "eq"
                ReferencedContainer = "container:eq.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5A157DEE1C727D8B00BDB64E"
+               BlueprintIdentifier = "5A157E271C727EFB00BDB64E"
                BuildableName = "eqTests.xctest"
                BlueprintName = "eqTests"
                ReferencedContainer = "container:eq.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5A157DF91C727D8B00BDB64E"
+               BlueprintIdentifier = "5A157E321C727EFB00BDB64E"
                BuildableName = "eqUITests.xctest"
                BlueprintName = "eqUITests"
                ReferencedContainer = "container:eq.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5A157DD81C727D8B00BDB64E"
+            BlueprintIdentifier = "5A157E141C727EFB00BDB64E"
             BuildableName = "eq.app"
             BlueprintName = "eq"
             ReferencedContainer = "container:eq.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5A157DD81C727D8B00BDB64E"
+            BlueprintIdentifier = "5A157E141C727EFB00BDB64E"
             BuildableName = "eq.app"
             BlueprintName = "eq"
             ReferencedContainer = "container:eq.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5A157DD81C727D8B00BDB64E"
+            BlueprintIdentifier = "5A157E141C727EFB00BDB64E"
             BuildableName = "eq.app"
             BlueprintName = "eq"
             ReferencedContainer = "container:eq.xcodeproj">
